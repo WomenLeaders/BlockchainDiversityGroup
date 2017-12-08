@@ -1,3 +1,3 @@
-Blockchain Diversity Group
+# Blockchain Diversity Group
 
-placeholder
+* Placeholder for public-facing site
